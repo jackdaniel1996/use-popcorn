@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Loader } from "./Components/Loader";
 import { ErrorMessage } from "./Components/ErrorMessage";
 import { Navbar } from "./Components/Navbar";

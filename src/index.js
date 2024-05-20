@@ -3,8 +3,8 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 
-import TextExpander from "./Components/TextExpander";
-import CurrencyConverter from "./Components/CurrencyConverter";
+// import TextExpander from "./Components/TextExpander";
+// import CurrencyConverter from "./Components/CurrencyConverter";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
