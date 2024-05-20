@@ -387,3 +387,37 @@ EMPTY STAR
 </svg>
 
 */
+
+@media (max-width: 768px) {
+    .nav-bar {
+        display: flex;
+        gap: 10px;
+        height: auto;
+        padding: 10px 3.2rem;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .summary div {
+        flex-wrap: wrap;
+    }
+
+    .list li {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .list div {
+        flex-wrap: wrap;
+    }
+
+    .list h3 {
+        font-size: 1.5rem;
+    }
+
+    .summary h2,
+    .summary div,
+    .list li {
+        font-size: 1.2rem;
+    }
+}
